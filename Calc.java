@@ -3,8 +3,10 @@ public class Calc {
 
         int a = 10;
         int b = 40 ;
-        
         int sum = a + b;
+
+        b=50;
+    
         int sub = b - a ;
         int multy = a * b ;
 
