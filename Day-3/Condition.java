@@ -9,9 +9,10 @@ public class Condition {
 
         if(age > 18){
             System.out.println("Adult");
-        }else{
+        }else {
             System.out.println("Not adult");
         }
+
     }
 
 }
