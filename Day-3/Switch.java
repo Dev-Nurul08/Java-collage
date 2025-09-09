@@ -4,7 +4,7 @@ public class Switch {
     public static void main(String[] args) {
         Scanner sc = new  Scanner(System.in);
 
-        System.out.print("Enter between (1-7) : ");
+        System.out.print("Enter a no (1-7) : ");
         int day = sc.nextInt();
 
         switch (day) {
